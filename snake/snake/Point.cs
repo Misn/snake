@@ -11,10 +11,7 @@ namespace snake
         public int x;
         public int y;
         public char sym;
-        private int v1;
-        private int v2;
-        private char v3;
-
+        
         public Point()
         {
         }
